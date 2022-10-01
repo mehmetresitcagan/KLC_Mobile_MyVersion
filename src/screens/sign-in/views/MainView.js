@@ -17,12 +17,12 @@ import Images from '../../../constants/Images';
 import {SafeAreaView} from 'react-native-safe-area-context';
 import Colors from '../../../constants/Colors';
 import {useSignInContext} from '../context';
-import { useLanguageContext } from '../../../store/LanguageContext';
+import {useLanguageContext} from '../../../store/LanguageContext';
 
 const SignInScreen = ({navigation}) => {
   const ctx = useSignInContext();
-  const langCtx = useLanguageContext()
-  const {getVal} = langCtx.functions
+  const langCtx = useLanguageContext();
+  const {getVal} = langCtx.functions;
 
   const {email, password, loading, error} = ctx.values;
   const {onLogin} = ctx.functions;
@@ -89,7 +89,11 @@ const SignInScreen = ({navigation}) => {
 
   const signingButtonsView = (
     <View style={styles.buttons}>
-      <CustomButton title={getVal('login')} onPress={onLogin} disabled={loading} />
+      <CustomButton
+        title={getVal('login')}
+        onPress={onLogin}
+        disabled={loading}
+      />
       <CustomButton
         title={getVal('go back')}
         onPress={() => navigation.goBack()}
