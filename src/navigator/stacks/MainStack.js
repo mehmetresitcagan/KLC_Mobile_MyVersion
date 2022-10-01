@@ -51,7 +51,7 @@ function MainStack() {
         options={{title: TR_TXT.home_screen, headerShown: false}}
       />
       <Stack.Screen
-        name={Screens.user_signIn}
+        name={Screens.user_sign_in}
         component={UserSignIn}
         options={{title: TR_TXT.home_screen, headerShown: false}}
       />
