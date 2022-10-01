@@ -39,7 +39,7 @@ const TR_TXT = {
 
 function MainStack() {
   return (
-    <Stack.Navigator>
+    <Stack.Navigator initialRouteName={Screens.user_sign_in}>
       <Stack.Screen
         name={Screens.home_screen}
         component={HomeScreen}
