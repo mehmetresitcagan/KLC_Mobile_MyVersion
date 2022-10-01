@@ -17,7 +17,7 @@ export const useSignInContext = () => {
   return context;
 };
 
-export const SignInProvider = props => {
+export const UserSignInProvider = props => {
   const authCtx = useAuthContext();
   //
   const [email, setEmail] = useState('');

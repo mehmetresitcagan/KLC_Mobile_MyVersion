@@ -6,7 +6,7 @@ import {HomeProvider} from './context/context';
 const HomeScreen = props => {
   return (
     <HomeProvider {...props}>
-      <SafeAreaView style={{flex:1}}>
+      <SafeAreaView style={{flex: 1}}>
         <HomeView />
       </SafeAreaView>
     </HomeProvider>

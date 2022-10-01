@@ -61,7 +61,7 @@ const HomeView = () => {
     <ScrollView
       style={styles.container}
       contentContainerStyle={styles.content_container}>
-      <HeaderView  />
+      <HeaderView />
       <View>
         <Text style={styles.forms_group_text}>{getVal('anamnesis forms')}</Text>
         <ScrollView

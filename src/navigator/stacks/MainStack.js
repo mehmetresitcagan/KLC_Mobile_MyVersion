@@ -15,6 +15,8 @@ import {
   FormsList,
   FormsFolders,
   SignIn,
+  //
+  UserSignIn,
 } from '../../screens';
 import Screens from '../../constants/Screens';
 
@@ -25,12 +27,14 @@ const TR_TXT = {
   dental_filling_form: 'ESTORATİF DİŞ TEDAVİSİ ONAM İÇİN BİLGİLENDİRME FORMU',
   endontic_treatment_form: 'ENDODONTİK TEDAVİ İZİN FORMU',
   sinus_lifting_form: 'SİNÜS LİFTİNG OPERASYONLARI İÇİN HASTA ONAM FORMU',
-  implant_form:"DİŞ İMPLANTI HASTA ONAM FORMU",
-  ortognatik_form:"ORTOGNATİK CERRAHİ (ÇENE CERRAHİSİ) ONAM İÇİN BİLGLİENDİRME FORMU",
+  implant_form: 'DİŞ İMPLANTI HASTA ONAM FORMU',
+  ortognatik_form:
+    'ORTOGNATİK CERRAHİ (ÇENE CERRAHİSİ) ONAM İÇİN BİLGLİENDİRME FORMU',
   //
   home_screen: 'Ana Sayfa',
   forms_list: 'Liste',
   //
+  user_signIn: 'Kullanıcı Girişi',
 };
 
 function MainStack() {
@@ -44,6 +48,11 @@ function MainStack() {
       <Stack.Screen
         name={Screens.sign_in}
         component={SignIn}
+        options={{title: TR_TXT.home_screen, headerShown: false}}
+      />
+      <Stack.Screen
+        name={Screens.user_signIn}
+        component={UserSignIn}
         options={{title: TR_TXT.home_screen, headerShown: false}}
       />
       <Stack.Screen
@@ -76,7 +85,6 @@ function MainStack() {
         component={OrtognatikFormScreen}
         options={{title: TR_TXT.ortognatik_form}}
       />
-
       <Stack.Screen
         name={Screens.forms_list}
         component={FormsList}
