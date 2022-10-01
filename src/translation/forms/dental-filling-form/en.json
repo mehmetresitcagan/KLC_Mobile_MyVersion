@@ -1,0 +1,122 @@
+{
+    "dental_filling_form": {
+        "form_header": [
+            "RESTORATIVE DENTAL TREATMENT",
+            "INFORMATION FORM FOR CONSENT"
+        ],
+        "section_1": {
+            "header": "",
+            "paragraphs": [
+                "The purpose of this form is to raise awareness about your health and to ensure your participation in the decisions to be taken. You can refuse to inform, except for legal and medical obligations.",
+                "Although this form has been defined to meet the needs of most patients in many conditions, it should not be considered a document that includes the risks of all treatment modalities. Depending on your personal health situation, your doctor may give you different or additional information.",
+                "After learning the benefits and possible risks of diagnosis, medical treatment and surgical interventions, it is up to you to accept or not to accept the applications."
+            ]
+        },
+        "section_2": {
+            "header": "What You Need to Know",
+            "paragraphs": [
+                "Since there is a difference between individuals in terms of recovery potential, the person's recovery potential cannot be predicted before the procedures. Since the treatment to be applied to you may fail in some cases, it may need to be repeated and the result of the treatment cannot be guaranteed.",
+                "Smoking, alcohol and sugar consumption, frequency of tooth brushing can limit the success of the procedures.",
+                "You should give detailed information to your doctor about your physical and mental health to the best of your knowledge. Also, previous allergic reactions to drugs, food, anesthetics, pollen or dust; systemic diseases; skin and gingival reactions; You should also inform your doctor about abnormal bleeding tendency and other conditions related to your general health."
+            ]
+        },
+        "section_3": {
+            "header": "What Can Happen If No Intervention Is Taken?",
+            "paragraphs": [
+                "If you do not accept the recommended treatment and interventions, the carious lesion may progress and cause irreversible excessive material loss, pain and sensitivity, infection, bad breath, color and aesthetic disorders, even tooth loss and problems in chewing and jaw joint functions due to these."
+            ]
+        },
+        "section_4": {
+            "header": "Risks Related to Intervention During the treatment to be applied ;",
+            "paragraphs": [
+                "In treatments that do not require anesthesia, there may be very partial pain.",
+                "In some types of anesthesia, adequate numbness cannot be achieved and additional anesthesia may be required.",
+                "Occasionally, temporary swelling, redness, bruising and numbness may be observed on the cheek due to anesthesia.",
+                "The drugs used can leave an unpleasant taste in the mouth and cause nausea.",
+                "Metal bands and wooden wedges used during case construction may traumatize the gingiva and cause sensitivity.",
+                "Small ones of the materials used during the treatment can be swallowed without the control of the physician.",
+                "During the treatment, soft tissues may be injured due to the involuntary movements of the patient.",
+                "Root canal treatment may also be required in case of progression of caries in the tooth for which filling treatment is started.",
+                "During root canal treatment, the root canal tool may break and remain in the tooth.",
+                "During root canal filling, the root canal filling material may be missing or come out of the root tip due to unforeseen reasons.",
+                "In teeth that have started root canal treatment; clogged channels, excessive material loss, root cracks and fractures, etc. For reasons, the tooth may need to be extracted.",
+                "During treatment, prosthetic procedures may be needed, and even in cases of extreme destruction, tooth extraction may be required.",
+                "In case of excessive damage to the tooth tissue, the old root canal treatment may not be completely removed during post application, which is one of the treatment alternatives, and accordingly, a suitable space for the post may not be prepared, and cracks may occur in the root of the tooth as a result of the force applied during post placement.",
+                "When the existing veneer is removed to treat the tooth under the veneer, the tooth may need to be extracted due to excessive caries or loss of material in the underlying tooth.",
+                "When crown or bridge removal is required, the crown or tooth may break during removal. For this reason, it may be necessary to extract the relevant tooth or reconstruct the veneer."
+            ]
+        },
+        "section_5": {
+            "header": "After the treatment to be applied",
+            "paragraphs": [
+                "Complications such as pain and tenderness may occur after filling. Root canal treatment may be required for persistent pain. It should not be forgotten that temporary pain may last 2-3 days and cold sensitivity may last 3-4 weeks.",
+                "After the root canal treatment, there may be pain during chewing for 7-10 times, it may take longer in cases of persistent infection, and may even require a repeat root canal treatment.",
+                "Facial swelling may occur rarely after root canal treatment.",
+                "In cases where a previous root canal treatment needs to be renewed, sometimes the old canal filling may not be completely removed, an ideal filling may not be made up to the root tip, and as a result, root canal treatment may fail.",
+                "After the treatment, there may be pain in the jaw joints, anesthetized part and gums for a few days.",
+                "Temporary wounds may occur on the gums or other tissues in the mouth.",
+                "In cases where the tooth tissue loss to be bonded enough is excessive, the filling may fall off.",
+                "In case of excessive damage to the tooth tissue, if it is not adhered sufficiently after post application, which is one of the treatment alternatives, it may come off.",
+                "If there is no root canal treatment in the teeth with veneer and porcelain filling, sensitivity may occur for a while.",
+                "The veneer and filling of the teeth with veneer and porcelain filling may fall and break.",
+                "There may be sensitivity after the treatment in patients undergoing bleaching.",
+                "If the bleaching agent accidentally comes into contact with the surrounding tissues, a temporary whiteness can be seen on the part it touches.",
+                "Since the tooth color of each patient is different and the aesthetic fillings we use do not have the same characteristics as the tooth tissue, sometimes the desired tooth color may not be achieved exactly, there may be a slight difference in tone.",
+                "Tooth color, which is satisfactory immediately after aesthetic fillings, may change over time. After a few years, the filling may need to be renewed.",
+                "After the aesthetic fillings on the anterior teeth and the fillings on the posterior teeth, the filling may fall or break as a result of the forces exerted on the anterior teeth by the biting and tearing function.",
+                "In patients with advanced joint problems, the jaw joint may come off due to prolonged mouth opening after treatment."
+            ]
+        },
+        "section_6": {
+            "header": "",
+            "paragraphs": [
+                "  I",
+                " I accept the treatment to be applied by the doctor/dentist working team of KLC Klink Restorative Dentistry Department, in my own right mind. The treatment options that can be applied for the treatment of my ailment were presented to me. I consent to all of the medications and interventions necessary for the fulfillment of the treatment option I have chosen for the treatment of my ailment. I gave all the information about my general health and I was informed about the problems that may occur due to this situation. I agree to follow the doctors' recommendations completely and I know that otherwise my treatment may fail. I allow the information to be obtained during my examination and treatment to be used with other scientific institutions for the purpose of researches towards the development of science or for training (provided that in accordance with patient rights and ethical principles)."
+            ]
+        },
+        "section_7": {
+            "header": "Form Confirmation",
+            "declation": "I HAVE READ THIS FORM AND UNDERSTAND ALL TERMS AND WORDS IN ITS CONTENTS.",
+            "date": "Date",
+            "patient": {
+                "name": "Patient's Name - Surname:",
+                "signature": "Signature"
+            },
+            "patient_relative": {
+                "name": "Patient's Parent/Guardian Name - Surname:",
+                "signature": "Signature"
+            },
+            "doctor": {
+                "name": "Doctor Name - Surname:",
+                "signature": "Signature"
+            },
+            "confirm": "Confirm"
+        },
+        "data": {
+            "targeted_process": "Targeted Process...",
+            "patient_name_declaration": "Patient Name Surname",
+            "patient_sign_box": "Patient",
+            "patient_name_surname": "Patient's Name Surname",
+            "patient_signature": "Signature",
+            "patient_phone": "Phone Number",
+            "doctor_sign_box": "Doctor",
+            "doctor_name_surname": "Doctor's Name Surname",
+            "doctor_signature": "Signature",
+            "paitnet_supervisor_sign_box": "Patient's Parent",
+            "paitnet_supervisor_name_surname": "Patient's Parent Name Surname",
+            "paitnet_supervisor_signature": "Signature",
+            "email_address": "Email Address"
+        },
+        "error":{
+            "fill_patient_email":"Please fill in the patient's email address.",
+            "email_address": "Please enter patient's Email Address",
+            "targeted_process": "Please enter the targetd process",
+            "patient_name_declaration": "Please enter the patient's commitment",
+            "patient_name_surname": "Please enter patient's name surname",
+            "patient_signature": "Please enter patient's signature",
+            "patient_phone": "Please enter the patient's phone No.",
+            "paitnet_supervisor_name_surname": "Please enter the gaurdian name surname",
+            "paitnet_supervisor_signature": "Please enter the gaurdian signature"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "endontic-form": {
+        "header": [
+            "ENDODONTIC TREATMENT",
+            "CONSENT FORM"
+        ],
+        "declration": "I agree that the following treatments will be applied:",
+        "section_1": {
+            "header": "",
+            "paragraphs": [
+                "I understand and consent that many factors contribute to the success of root canal treatment and not all factors can be determined in advance. Some of the factors are: my resistance to infection; the bacteria causing the infection; the size, shape and location of the canals. My case may be more difficult if my tooth has blocked, curved, or narrow canals. I accept that antibiotics, analgesics and other drugs can have allergic effects such as redness, swelling of the tissue, itching, nausea and anaphylactic shock (very rare).",
+                "During the treatment, the treatment may change or new procedures may be added to the treatment due to reasons that could not be determined during the examination while working on the tooth. The most common procedure is root canal treatment. I give permission for all/any changes and additions necessary for my tooth.",
+                "Although rare, the washing agents used during root canal treatment may cause allergic reactions in some patients. I am informed about this risk.",
+                "I accept that there is no guarantee that root canal treatment will save my tooth, complications may occur due to treatment, and although rare, metal objects may be cemented into the root canal and these may dislocate outside the root. I am aware that additional surgical procedures may rarely need to be performed following root canal treatment.",
+                "patient and/or",
+                "As the parent and/or guardian, I request and authorize the dental personnel for all dental treatments required for myself and/or my child, including, but not limited to, x-rays, including all anesthesia recommended and applied by the dentist."
+            ]
+        },
+        "footer": {
+            "patiant_supervisior": {
+                "name_surname": "Patient/Parent/Guardian Name, Surname",
+                "signature": "Signature"
+            },
+            "date": "Date",
+            "confirm": "Confirm"
+        },
+        "data": {
+            "supervisor_name_declration": "Patient/Parent/Guardian",
+            "form_signer_name_surname": "Name and surname",
+            "form_signer_signature": "Signature",
+            "form_signer_phone_no": "Phone Number",
+            "date": "Date",
+            "email_address": "Email Address"
+        },
+        "error": {
+            "fill_patient_email": "Please fill in the patient's email address.",
+            "supervisor_name_declration": "Please write gaurdian commitment",
+            "form_signer_name_surname": "Fill-in name surname",
+            "form_signer_signature": "Add your signature",
+            "form_signer_phone_no": "Write your phone number",
+            "date": "Write the form signing date",
+            "email_address": "Fill-in the email address"
+        }
+    }
+}

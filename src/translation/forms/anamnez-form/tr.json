@@ -1,0 +1,166 @@
+{
+    "anamnez-bilgi-form": {
+        "header": [
+            "KLC KLİNİK",
+            "ANAMNEZ FORMU"
+        ],
+        "section_1": {
+            "header": "Hasta Bilgileri",
+            "patient": {
+                "name_surname": "Adı Soyadı:",
+                "birth_date": "Doğum Tarihi"
+            }
+        },
+        "section_2": {
+            "header": "Hastanın Medikal Hikayesi",
+            "has_medical_treatment": {
+                "label": "Son Zamanlarda Tıbbi Tedavi Gördünüz mü",
+                "desc": "Açıklama"
+            },
+            "has_medical_operation": {
+                "label": "Ameliyat oldunuz mu?",
+                "desc": "Açıklama"
+            },
+            "frequent_medicine": {
+                "label": "Düzenli kullandığınız ilaç var mı?",
+                "desc": "Açıklama"
+            },
+            "use_bisphosphonates_medicine": {
+                "label": "Daha önce kemik erimesi için veya kanser tedavisi için kemik dokuyu koruma amaçlı ‘bifosfanat içerikli ilaç kullandınız mı? ",
+                "desc": "Açıklama"
+            },
+            "allergic_to_medicine": {
+                "label": "Herhangi bir maddeye veya ilaca karşı allerjiniz var mı?",
+                "desc": "Açıklama"
+            },
+            "smoking": {
+                "label": "Sigara kullanıyor musunuz?",
+                "how_frequent": {
+                    "ten": "Günde 0-10 adet",
+                    "twenty": "Günde 10-20 adet",
+                    "more": "Günde 20 adetten fazla "
+                }
+            }
+        },
+        "section_3": {
+            "header": "Hastanın Medikal Durumu"
+        },
+        "section_4": {
+            "header": "Kadınlar için Sorular",
+            "questions": {
+                "pregnent": "Hamile misiniz? ",
+                "breastfeeding": "Emziriyor musunuz?"
+            }
+        },
+        "section_5": {
+            "header": "Form Onayı",
+            "patient": {
+                "header": "Hasta",
+                "name_surname": "Adı Soyadı",
+                "signature": "İmza",
+                "date": "Tarih"
+            },
+            "patient_responsible": {
+                "header": "Hastanın Velisi/Vasisi",
+                "name_surname": "Adı Soyadı",
+                "signature": "İmza",
+                "date": "Tarih"
+            },
+            "doctor": {
+                "header": "Hekim",
+                "name_surname": "Adı Soyadı",
+                "signature": "İmza",
+                "date": "Tarih"
+            },
+            "confirm": "Onayla"
+        },
+        "data": {
+            "patient_name_surname": "",
+            "patient_birthdate": "patient_birthdate",
+            "has_medical_treatment": "",
+            "has_medical_treatment_desc": "",
+            "has_medical_operation": "",
+            "has_medical_operation_desc": "",
+            "has_frequent_medicine": "",
+            "has_frequent_medicine_desc": "",
+            "Blood_Thinner": "Kan Sulandırıcı",
+            "Blood_Pressure_Medicine": "Tansiyon İlacı",
+            "Heart_Medicine": "Kalp İlacı",
+            "Cortisone": "Kortizon",
+            "Cholesterol_Medicine": "Kolesterol İlacı",
+            "Diabetes_Medicine": "Şeker İlacı",
+            "Asthma_Medicine": "Astım İlacı",
+            "Thyroid_Medicine": "Tiroid İlacı",
+            "Osteoporosis_Medicine": "Osteoporoz ilacı",
+            "use_bisphosphonates_medicine": "",
+            "use_bisphosphonates_medicine_desc": "",
+            "has_allergy_to_medicine": "",
+            "Penicillin": "Penisilin",
+            "Painkiller": "Ağrı Kesici",
+            "Local_Anesthesia_Substance": "Lokal Anestezi Madde",
+            "Other_allergic_medicine": "Diğer",
+            "Other_allergic_medicine_desc": "",
+            "smoking": "",
+            "smoking_count": "",
+            "Heart_Attack": "Kalp Krizi",
+            "Palpitations": "Kalp Çarpıntısı",
+            "Congenital_Heart_Disease": "Doğumsal Kalp Hastalığı",
+            "Cardiac_Surgery": "Kalp Cerrahisi",
+            "Chest_Pain": "Göğüs Ağrısı",
+            "Low_High_Blood_Pressure": "Düşük/Yüksek Tansiyon",
+            "Rheumatic_Fever": "Romatizmal Ateş",
+            "Rheumatism": "Romatizma",
+            "Osteoporosis": "Osteoporoz",
+            "Paralysis": "Felç",
+            "Thyroid": "Tiroid",
+            "Ulcer": "Ülser",
+            "Asthma": "Astım",
+            "COPD": "KOAH",
+            "Sinusitis": "Sinüzit",
+            "Tuberculosis": "Tüberküloz",
+            "Epilepsy": "Epilepsi",
+            "Hepatitis": "Hepatit",
+            "Kidney_Disease": "Böbrek Hastalığı",
+            "Urticaria": "Ürtiker",
+            "Blood_Disease": "Kan Hastalığı",
+            "Anemia": "Anemi",
+            "Long_Bleeding_Time": "Uzun Kanama Zamanı",
+            "Glaucoma": "Glokom",
+            "Diabetes": "Diyabet",
+            "HIV": "HIV",
+            "Cancer": "Kanser",
+            "Radiotherapy": "Radyoterapi",
+            "Chemotherapy": "Kemoterapi",
+            "Other_medical_status": "Diğer",
+            "Other_medical_status_desc": "Diğer Durum",
+            "pregnent": "",
+            "breastfeeding": "",
+            "patient_hand_declaration": "",
+            "patient_signature": "",
+            "patient_date": "",
+            "responsible_name_surname": "",
+            "responsible_signature": "",
+            "responsible_date": "",
+            "doctor_name_surname": "",
+            "doctor_signature": "",
+            "doctor_date": "",
+            "email_address": "e-posta adresi"
+        },
+        "error": {
+            "fill_patient_email": "Lütfen hastanın e-posta adresini doldurun.",
+            "patient_name_surname": "Lütfen hastanın Adı Soyadı doldurun.",
+            "has_medical_treatment": "Lütfen 'Son Zamanlarda Tıbbi Tedavi Gördünüz mü'?",
+            "has_medical_operation": "Lütfen 'Ameliyat oldunuz mu?'",
+            "has_frequent_medicine": "Lütfen 'Düzenli kullandığınız ilaç var mı?'",
+            "use_bisphosphonates_medicine": "Lütfen 'kemik erimesi için veya kanser tedavisi için kemik dokuyu koruma amaçlı ‘bifosfanat içerikli ilaç kullandınız mı?'",
+            "has_allergy_to_medicine": "Lütfen 'Herhangi bir maddeye veya ilaca karşı allerjiniz var mı?'",
+            "patient_hand_declaration": "Lütfen 'Okudum, anladım, ve kabul ediyorum.' tekrar yaz",
+            "patient_signature": "Lütfen formu imzalayın",
+            "patient_date": "Lütfen hastanın form doldurma tarihini girin",
+            "responsible_name_surname": "Lütfen vasi adı soyadını girin",
+            "responsible_signature": "Lütfen vasi imzasını girin",
+            "responsible_date": "Lütfen vasi form doldurma tarihini girin",
+            "email_address": "Lütfen hastanın e-posta adresini girin"
+        }
+    }
+}

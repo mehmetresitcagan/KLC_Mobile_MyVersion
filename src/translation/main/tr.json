@@ -1,0 +1,23 @@
+{
+    "__comment__": "following are HOME SCREEN translations",
+    "implant consent": "İmplant Onam",
+    "anamnesis and information form": "ANAMNEZ VE BİLGİ FORMU",
+    "root canal treatment consent": "Kanal Tedavisi Onam",
+    "dental filling consent": "Diş Dolgu Onam",
+    "orthognathic surgeon consent": "Ortognatık Cerrahı Onam",
+    "sinus lifting consent": "Sinus Lifting Onam",
+    "anamnesis forms": "Anamnez Formlar",
+    "consent forms": "Onam Formlar",
+    "login": "Giriş yap",
+    "forms": "Formlar",
+    "logout": "Çıkış Yap",
+    "__comment__": "following are SIGN IN translations",
+    "password": "Şifre",
+    "go back": "Geri Git",
+    "welcome": "Hoşgeldiniz",
+    "email address": "E-posta Adresi",
+    "clean": "Temizle",
+    "confirm": "Onayla",
+    "yes":"Evet",
+    "no":"Hayır"
+}

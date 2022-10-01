@@ -1,0 +1,83 @@
+{
+    "sinus-lifting-form": {
+        "header": [
+            "FOR SINUS LIFTING OPERATIONS",
+            " PATIENT CONSENT FORM"
+        ],
+        "section_1": {
+            "header": "Treatment Content",
+            "paragraphs": [
+                "Sinus elevation operation is the approach applied in cases where the height of the alveolar bone does not allow implantation and sufficient height cannot be achieved with the internal sinus elevation operation."
+            ]
+        },
+        "section_2": {
+            "header": "Sinus Elevation Method (To be marked by the physician)",
+            "header_btn_1": "Crestal Sinus Raise",
+            "header_btn_2": "Lateral Window Sinus Elevation",
+            "paragraphs": [
+                "This method begins with an incision after anesthesia in the edentulous area where the implant will be applied. The tooth tissues are removed and the bone surface is exposed so that they are far enough away from the roots so that they do not damage the tooth roots. On the resulting bone surface, grooves are made with the help of the bur attached to the physiodispenser tip in the region/regions where the implant will be placed. The sinus membrane is added through the created groove with the help of an osteotome. During this time, up to 10 ml of blood is taken from the patient. The patient's blood is made into a membrane with the help of centrifuge and sent into the sinus through the groove created in order to repair or prevent possible sinus rupture. Artificial bone graft is filled into the area and the groove area is covered with a collagen membrane. The area is closed with the help of sutures. After these procedures, 8-12 months later, bone formation is expected at the level where the implant can be made in the area where the operation is applied.",
+                " This method begins with an incision after anesthesia to the edentulous area where the implant will be applied. The tooth tissues are removed and the bone surface is exposed so that they are far enough away from the roots so that they do not damage the tooth roots. An oval or rectangular window is opened with bone reconnaissance tools on the surface of the exposed bone. Through this window opening, the sinus membrane is gently scraped from the bone with the help of special tools and released. Bone graft (artificial) materials are placed in the resulting cavity. After the graft materials are placed sufficiently, the area is covered with the removed gingival tissue and sutured. After these procedures, 8-12 months later, bone formation is expected at the level where the implant can be made in the area where the operation is applied."
+            ]
+        },
+        "section_3": {
+            "header": "Alternative Treatments to Sinus Lift Operation",
+            "paragraphs": [
+                "1-\\tAppropriate prostheses are made according to the condition of the mouth instead of implant treatment, instead of sinus lift operation.",
+                "2-\\tLeaving the edentulous area as it is.",
+                "3-\\tSuccess and application limited angle implant applications",
+                "4-\\tShort implant applications"
+            ]
+        },
+        "section_4": {
+            "header": "Problems That May Be Encountered",
+            "paragraphs": [
+                "Infection, bleeding, swelling, pain, discoloration (bruising), bone fractures, necrosis in the teeth adjacent to the operation area, necessity of removing artificial bone materials as a result of unsuccessful surgery, numbness, rupture of the sinus membrane, acute sinusitis, chronic sinusitis and unsuccessful surgery problems such as"
+            ]
+        },
+        "section_5": {
+            "header": "Approval for Daily Care of the Operation Site and Whole Mouth",
+            "paragraphs": [
+                "I was informed about the daily oral care that should be done for the proper recovery that will occur as a result of the sinus lift operation and I agreed to do this care in accordance with the instructions.",
+                "I was informed about what the sinus lift application is, what it is for, the treatment, the problems that may be encountered after, and alternative treatments to the sinus lift operation, and as a result, I allowed the sinus lift operation to be performed. After the operation, I agreed to comply with all the care rules described by the dentist."
+            ],
+            "confirmation": {
+                "patient_name_surname": "Patient Name, Surname",
+                "patient_signature": "Patient Signature",
+                "patient_date": "Date",
+                "review_phone_number": "Telephone Number You Can Contact When Necessary: x xxx xxx xx xx / xxxxx-xxxxx",
+                "preparer_ref": "Prepared by",
+                "preparer_date": "Date",
+                "preparer_position": "UNIT QUALITY RESPONSIBLE",
+                "controller_ref": "CONTROLLER",
+                "controller_position": "QUALITY MANAGEMENT DIRECTOR",
+                "controller_date": "History",
+                "confirmer_ref": "APPROVED",
+                "confirmer_position": "DEAN",
+                "confirmer_date": "Date"
+            },
+            "confirm": "Confirm"
+        },
+        "data": {
+            "has_crestal_sinus_raise": "Crestal Sinus Raise",
+            "has_lateral_window_sinus_elevation": "Lateral Window Sinus Elevation",
+            "patient_name_surname": "Patient Name Surname",
+            "patient_signature": "Signature",
+            "patient_phone_no": "Phone Number",
+            "patient_date": "Date",
+            "email_address": "Email Address",
+            "confirmer": "DOCTOR",
+            "confirmer_postion": "DEAN",
+            "confirmer_name_surname": "Name Surname",
+            "confirmer_signature": "Signature",
+            "confirmer_date": "Date"
+        },
+        "error": {
+            "fill_patient_email": "Please fill in the patient's email address.",
+            "patient_name_surname": "Please fill in Patient Name Surname",
+            "patient_signature": "Please fill in Patient's Signature",
+            "patient_phone_no": "Please fill in Patient's Phone Number",
+            "patient_date": "Please fill in Patient's Signature Date",
+            "email_address": "Please fill in Patient's Email Address"
+        }
+    }
+}

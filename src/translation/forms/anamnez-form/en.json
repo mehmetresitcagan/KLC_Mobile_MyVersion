@@ -1,0 +1,166 @@
+{
+    "anamnez-bilgi-form": {
+        "header": [
+            "KLC CLINIC",
+            "MEDICAL HISTORY FORM"
+        ],
+        "section_1": {
+            "header": "Patient Information",
+            "patient": {
+                "name_surname": "Name and surname:",
+                "birth_date": "Date of birth"
+            }
+        },
+        "section_2": {
+            "header": "Patient's Medical History",
+            "has_medical_treatment": {
+                "label": "Have you recently received medical treatment?",
+                "desc": "Explanation"
+            },
+            "has_medical_operation": {
+                "label": "Have you ever had a surgical operation?",
+                "desc": "Explanation"
+            },
+            "frequent_medicine": {
+                "label": "Do you use any medication regularly?",
+                "desc": "Explanation"
+            },
+            "use_bisphosphonates_medicine": {
+                "label": "Have you ever used a medication containing bisphosphonates to protect bone tissue for osteoporosis or for cancer treatment?",
+                "desc": "Explanation"
+            },
+            "allergic_to_medicine": {
+                "label": "Do you have any allergies to any substance or medication?",
+                "desc": "Explanation"
+            },
+            "smoking": {
+                "label": "Do you smoke?",
+                "how_frequent": {
+                    "ten": "0-10 pieces per day",
+                    "twenty": "10-20 pieces per day",
+                    "more": "More than 20 pieces per day"
+                }
+            }
+        },
+        "section_3": {
+            "header": "Medical Status of the Patient"
+        },
+        "section_4": {
+            "header": "Questions for Women",
+            "questions": {
+                "pregnent": "Are you pregnant?",
+                "breastfeeding": "Are you breastfeeding?"
+            }
+        },
+        "section_5": {
+            "header": "Form Confirmation",
+            "patient": {
+                "header": "Patient",
+                "name_surname": "Name Surname",
+                "signature": "Signature",
+                "date": "Date"
+            },
+            "patient_responsible": {
+                "header": "Patient's Parent/Guardian",
+                "name_surname": "Name and surname",
+                "signature": "Signature",
+                "date": "Date"
+            },
+            "doctor": {
+                "header": "Doctor",
+                "name_surname": "Name and surname",
+                "signature": "Signature",
+                "date": "Date"
+            },
+            "confirm": "Confirm"
+        },
+        "data": {
+            "patient_name_surname": "",
+            "patient_birthdate": "",
+            "has_medical_treatment": "",
+            "has_medical_treatment_desc": "",
+            "has_medical_operation": "",
+            "has_medical_operation_desc": "",
+            "has_frequent_medicine": "",
+            "has_frequent_medicine_desc": "",
+            "Blood_Thinner": "Blood Thinner",
+            "Blood_Pressure_Medicine": "Blood Pressure Medicine",
+            "Heart_Medicine": "Heart Medicine",
+            "Cortisone": "Cortisone",
+            "Cholesterol_Medicine": "Cholesterol Medicine",
+            "Diabetes_Medicine": "Diabetes Medicine",
+            "Asthma_Medicine": "Asthma Medicine",
+            "Thyroid_Medicine": "Thyroid Medicine",
+            "Osteoporosis_Medicine": "Osteoporosis Medicine",
+            "use_bisphosphonates_medicine": "",
+            "use_bisphosphonates_medicine_desc": "",
+            "has_allergy_to_medicine": "",
+            "Penicillin": "Penicillin",
+            "Painkiller": "Painkiller",
+            "Local_Anesthesia_Substance": "Local Anesthesia Substance",
+            "Other_allergic_medicine": "Other",
+            "Other_allergic_medicine_desc": "",
+            "smoking": "",
+            "smoking_count": "",
+            "Heart_Attack": "Heart Attack",
+            "Palpitations": "Palpitations",
+            "Congenital_Heart_Disease": "Congenital Heart Disease",
+            "Cardiac_Surgery": "Cardiac Surgery",
+            "Chest_Pain": "Chest Pain",
+            "Low_High_Blood_Pressure": "Low High Blood Pressure",
+            "Rheumatic_Fever": "Rheumatic Fever",
+            "Rheumatism": "Rheumatism",
+            "Osteoporosis": "Osteoporosis",
+            "Paralysis": "Paralysis",
+            "Thyroid": "Thyroid",
+            "Ulcer": "Ulcer",
+            "Asthma": "Asthma",
+            "COPD": "COPD",
+            "Sinusitis": "Sinusitis",
+            "Tuberculosis": "Tuberculosis",
+            "Epilepsy": "Epilepsy",
+            "Hepatitis": "Hepatitis",
+            "Kidney_Disease": "Kidney Disease",
+            "Urticaria": "Urticaria",
+            "Blood_Disease": "Blood Disease",
+            "Anemia": "Anemia",
+            "Long_Bleeding_Time": "Long Bleeding Time",
+            "Glaucoma": "Glaucoma",
+            "Diabetes": "Diabetes",
+            "HIV": "HIV",
+            "Cancer": "Cancer",
+            "Radiotherapy": "Radiotherapy",
+            "Chemotherapy": "Chemotherapy",
+            "Other_medical_status": "Other Medical status",
+            "Other_medical_status_desc": "Other Status",
+            "pregnent": "",
+            "breastfeeding": "",
+            "patient_hand_declaration": "",
+            "patient_signature": "",
+            "patient_date": "",
+            "responsible_name_surname": "",
+            "responsible_signature": "",
+            "responsible_date": "",
+            "doctor_name_surname": "",
+            "doctor_signature": "",
+            "doctor_date": "",
+            "email_address": "Email Address"
+        },
+        "error": {
+            "fill_patient_email": "Please fill in the patient's email address.",
+            "patient_name_surname": "Please fill in the patient's name surname",
+            "has_medical_treatment": "Please 'Have You Received Medical Treatment Recently'?",
+            "has_medical_operation": "Please answer 'Have you had the surgery?'",
+            "has_frequent_medicine": "Please answer 'Do you regularly use medication?'",
+            "use_bisphosphonates_medicine": "Please 'have you used drugs containing bisphosphonates for osteoporosis or for cancer treatment to protect bone tissue?'",
+            "has_allergy_to_medicine": "Please answer 'Do you have an allergy to any substance or medication?'",
+            "patient_hand_declaration": "Please write again'I have read, understood, and accept.'",
+            "patient_signature": "Please sign the form",
+            "patient_date": "Please enter the patient's date of filling out the form",
+            "responsible_name_surname": "Please enter the name of the guardian",
+            "responsible_signature": "Please enter guardian signature",
+            "responsible_date": "Please enter the guardian form completion date",
+            "email_address": "Please fill in the patient's Email address"
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "ortognatik-form": {
+        "header": [
+            "ORTHOGNATIC SURGERY (Jaw SURGERY) FOR CONSENT",
+            "INFORMATION FORM"
+        ],
+        "section_1": {
+            "header": "Possible risks of orthognathic surgery",
+            "paragraphs": {
+                "p1": "As with other surgeries, jaw surgeries also carry certain risks. These can be simple risks or they can be deadly. It is very important that you understand well some of the risks that may develop after jaw tip surgery.",
+                "p2": "Surgery and other procedures to be performed: An incision will be made through the mouth or over the skin to reach the lower jaw bone. In addition, if it is necessary to take bone or tissue from another part of your body, it may be necessary to make an incision from another part of your body. The mandible will be corrected by cutting the bone at the appropriate place (osteotomy) and fixed using one or more of the following:",
+                "p2_sub": "- Titanium plates and/or screws, fusible plate and/or screws, sutures, metal arches and wires applied to teeth, bone, cartilage and tissues taken from your body, bone, cartilage, bone paste, bone powder, silicone from another human or animal, alloplastic materials such as porous hydroxyapatite, methyl methacrylate, titanium mesh",
+                "p3": "Unless there is a problem, these materials can stay in place for a lifetime. If problems arise, a second surgery may be required to remove them.",
+                "p4": "At the end of the operation or later, the lower jaw and the upper jaw can be locked for 7-10 days (Intermaxillary fixation). During this period, only watery foods should be fed. If there is difficulty in breathing or nausea, the rubbers applied for the fixation may be cut.",
+                "l1": "Side effects that may develop due to any surgical intervention:",
+                "l1_sub_1": "a. Discomfort/post-operative pain from the surgery itself",
+                "l1_sub_2": "b. Edema (Swelling)",
+                "l1_sub_3": "c. Bleeding",
+                "l1_sub_4": "D. Numbness",
+                "l2": "Injury of branch of facial nerve (Facial nerve)",
+                "l3": "Giving blood: Bleeding (in surgery or after surgery) that requires an autologous donor or blood transfusion may occur",
+                "l4": "Recurrence or need for additional procedures",
+                "l5": "Infection: The wound may recur, but it usually resolves with antibiotics and local treatment (with washing).",
+                "l6": "Ischemic necrosis (tissue death) may occur due to decreased blood flow.",
+                "l7": "Instability: Movement that should not be at the bone cut (osteotomy) line.",
+                "l8": "Titanium plates and screws used to fix the jaw after surgery can cause pain and/or infection, which in some stages requires surgical removal.",
+                "l9": "Decreased mouth opening",
+                "l10": "Very rarely, bleeding may occur at the base of the skull. This can lead to blindness. This situation is permanent.",
+                "l11": "Obese people have an increased risk of wound infection, chest infection, heart and lung complications (adverse condition), and thrombosis.",
+                "l12": "Wound healing is poor in diabetics, smokers, malnourished, obese patients and in some personal conditions. Significant scars may remain in external incisions.",
+                "l13": "Scar",
+                "l14": "Weight loss",
+                "l15": "If there is a jaw joint problem before the surgery, this can completely go away, decrease or sometimes increase.",
+                "l16": "Relapse",
+                "l17": "Additional surgical procedures may be required in case of any complications."
+            }
+        },
+        "section_2": {
+            "header": "Orthognathic Surgery Consent Form",
+            "paragraphs": [
+                "My doctor explained my child's medical condition and the recommended surgical procedure. I understood the risks of the surgery, the risks specific to my child, and the possible positive and negative situations (complications).",
+                "My doctor explained the other treatment methods, the associated risks, the possible medical course (prognosis) and the risks if not treated.",
+                "An anesthesia information form and a patient information form were given to me.",
+                "I had the opportunity to discuss my child's medical condition, treatment and risks, and questions about alternative treatments. My questions and thoughts were discussed to my satisfaction.",
+                "I agree to donate blood to my child when necessary during the surgery.",
+                "I know that organs or tissues may be removed during surgery and will be discarded by the hospital after being stored for a period of time for testing purposes.",
+                "My doctor explained that there can be life-threatening events during the surgery, and I fully understand these risks.",
+                "I accept that the radiographs and photographs taken before the surgery, the photographs and video images that can be taken during the surgery, and the radiographs and photographs that can be taken after the surgery can be used later for the training of healthcare professionals and scientific studies.",
+                "I understand that there are no guarantees that the surgery will make my child's condition better or worse.",
+                "I understand that if unpredictable situations occur during or after the surgery or during anesthesia, procedures other than those described above may be required. In this case, I approve the above-mentioned doctors and their assistants to decide and perform the applications that may be required, and also to allow the experts in the relevant branches to participate in the surgical intervention as they deem appropriate."
+            ]
+        },
+        "section_3": {
+            "header": "",
+            "paragraphs": [
+                "I have read all of the above information and I have been given a lot of verbal information other than this information. I ACKNOWLEDGE THAT I AM SATISFIED WITH THE ORAL AND WRITTEN EXPLANATIONS MADE TO ME. I CONSENT TO THE TREATMENT OR SURGERY TO BE DONE, TO ALL THE TREATMENTS TO BE DONE IN CASE THAT MAY OCCUR, AND TO THE ORAL AND WRITTEN EXPLANATIONS LISTED ABOVE AND NOT LIMITED TO THEM."
+            ],
+            "patient": {
+                "name_surname": "Name and surname",
+                "signature": "Signature",
+                "date": "Date"
+            },
+            "supervisor": {
+                "name_surname": "",
+                "signature": "",
+                "date": ""
+            }
+        },
+        "section_4": {
+            "header": "",
+            "paragraphs": [
+                "-\tthe patient's condition",
+                "-\tthat he/she needs treatment",
+                "-\tTreatment method and risks",
+                "-\tTreatment options and risks",
+                "-\tPossible consequences when these risks occur",
+                "-\tPatient-specific risks and problems",
+                "I told the patient's mother / father / responsible / deputy."
+            ]
+        },
+        "section_5": {
+            "header": "",
+            "paragraphs": {
+                "p1": "Dr ...........",
+                "p2": "I gave the patient's mother / father / principal / surrogate the opportunity to ask questions about the above-mentioned points, discuss their other thoughts, and answered them as much as possible. I think the patient's mother / father / officer / surrogate understands the above information."
+            }
+        },
+        "section_6": {
+            "header": "",
+            "doctor_1": {
+                "name_surname": "Name and surname",
+                "signature": "Signature",
+                "date": "Date"
+            },
+            "doctor_2": {
+                "name_surname": "Adı Soyadı",
+                "signature": "Signature",
+                "date": "Date"
+            },
+            "confirm": "Confirm"
+        },
+        "data": {
+            "patient_name_surname": "Patient's Name - Surname",
+            "patient_signature": "Signature",
+            "patient_date": "Date",
+            "patient_supervisior_name_surname": "Supervisior and degree of closeness",
+            "patient_supervisior_date": "Date",
+            "patient_supervisior_signature": "Signature",
+            "doctor_1_declare_name_surname": "Doctor 1 Name Surname",
+            "doctor_2_declare_name_surname": "Doctor 2 Name Surname",
+            "doctor_1_name_surname": "Doctor 1 Name Surname",
+            "doctor_1_signature": "Signature",
+            "doctor_1_date": "Date",
+            "doctor_2_name_surname": "Doctor 2 Name Surname",
+            "doctor_2_signature": "Signature",
+            "doctor_2_date": "Date",
+            "email_address": "Email Address"
+        },
+        "error": {
+            "fill_patient_email": "Please fill in the patient's email address.",
+            "patient_name_surname": "Please fill in the patient's Name - Surname",
+            "patient_signature": "Please fill in the patient's Signature",
+            "patient_date": "Please fill in the patient's Signature Date",
+            "patient_supervisior_name_surname": "Please fill in the patient's Supervisior name-surname and degree of closeness",
+            "patient_supervisior_date": "Please fill in the patient's Supervisior Signature Date",
+            "patient_supervisior_signature": "Please fill in the patient's Supervisior Signature",
+            "email_address": "Please fill in the patient's email address."
+        }
+    }
+}

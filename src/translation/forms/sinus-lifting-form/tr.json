@@ -1,0 +1,83 @@
+{
+    "sinus-lifting-form": {
+        "header": [
+            "SİNÜS LİFTİNG OPERASYONLARI İÇİN",
+            " HASTA ONAM FORMU"
+        ],
+        "section_1": {
+            "header": "Tedavi İçeriği",
+            "paragraphs": [
+                "Sinüs yükseltme operasyonu, alveol kemik yüksekliğinin implant yapımına olanak sağlamadığı ve internal sinüs yükseltme operasyonu ile de yeterli yükseklik sağlanamayacağı durumlarda uygulanan yaklaşımdır."
+            ]
+        },
+        "section_2": {
+            "header": "Sinüs Yükseltme Yöntemi (Hekim tarafından işaretlenecektir)",
+            "header_btn_1": "Krestal Sinüs Yükseltme",
+            "header_btn_2": "Lateral Pencere Sinüs Yükseltme",
+            "paragraphs": [
+                "Bu yöntem implant uygulanacak dişsiz bölgeye anestezi sonrasındakesi yapılması ile başlar. Diş köklerine zarar vermemesi için yeterince köklerden uzakta olacak şekilde diş dokuları kaldırılıp kemik yüzeyi açığa çıkartılır. Ortaya çıkan kemik yüzeyi üzerinde implant yerleştirileceği bölge/bölgelerde fizyodispanser ucuna takılmış olan frez yardımı ile oluklar açılır. Oluşturulan oluk içerisinden osteotom yardımı ile sinüs membranı elave edilir. Hastadan bu esnada lOml'e kadar kan alınır. Hastanın kanı santrifüj yardımı ile membran haline getirilir ve olası sinüs yırtılmasının onarımı yada oluşmasının engellenmesi amacıyla oluşturulan oluk içerisinden sinüs içerisine yollanır. Yapay kemik grefti bölgeye doldurulup, oluk bölgesi kollagen membran ile örtülenir. Bölge dikişler yardımı ile kapatılır. Bu işlemlerden sonra 8-12 ay sonrasında operasyonun uygulandığı bölge implantın yapılabileceği seviyede kemik oluşumu beklenilmektedir.",
+                " Bu yöntem implant uygulanacak dişsiz bölgeye anestezi sonrasında ise keşi yapılması ile başlar. Diş köklerine zarar vermemesi için yeterince köklerden uzakta olacak şekilde diş dokuları kaldırılıp kemik yüzeyi açığa çıkartılır. Ortaya çıkan kemik yüzeyi üzerinde kemik keşi aletleri ile oval veya dikdörtgen bir pencere açılır. Bu pencere açıklığından sinüs zarı kemikten özel aletler yardımıyla nazikçe sıyrılır ve serbestleştirilir. Elde edilen boşluğa kemik grefti ( yapay) materyalleri yerleştirilir. Greft materyalleri yeterli oranda yerleştirildikten sonra, kaldırılan dişeti dokusu ile bölge örtülüp, dikilir. Bu işlemlerden sonra 8-12 ay sonrasında operasyonun uygulandığı bölge implantın yapılabileceği seviyede kemik oluşumu beklenilmektedir."
+            ]
+        },
+        "section_3": {
+            "header": "Sinüs Lift Operasyonuna Alternatif Tedaviler",
+            "paragraphs": [
+                "1-\\tSinüs yükseltme operasyonunun yapılmayıp, implant tedavisi yerine, ağızın durumuna göre uygun protezlerin yapılması.",
+                "2-\\tDişsiz bölgenin olduğu gibi bırakılması.",
+                "3-\\tBaşarısı ve uygulaması sınırlı açılı implant uygulamaları",
+                "4-\\tKısa implant uygulamaları"
+            ]
+        },
+        "section_4": {
+            "header": "Karşılaşılabilecek Problemler",
+            "paragraphs": [
+                "Enfeksiyon, kanama, şişlik, ağrı, ilgili bölgede renk değişiklliği (morarma), kemik kırıkları, operasyon bölgesine komşu dişlerde nekroz, ameliyatın başarısız olması sonucu yapay kemik materyallerinin çıkarılması gerekliliği, hissizlik, sinüs zarında yırtılma, akut sinüzit, kronik sinüzit ve ameliyatın başarısız olması gibi problemler ile karşılaşılabilir."
+            ]
+        },
+        "section_5": {
+            "header": "Operasyon Bölgesinin ve Tüm Ağzın Günlük Bakımı İçin Onay",
+            "paragraphs": [
+                "Sinüs lift operasyonu sonucu oluşacak uygun iyileşme için yapılması gereken günlük ağız bakımı hakkında bilgilendirildim ve talimatlar doğrultusunda bu bakımı yapmayı kabul ettim.",
+                "Sinüs yükseltme uygulamasının ne olduğu, ne için yapıldığı, tedavi, sonrası karşılaşılabilecek problemler, sinüs lift operasyonuna alternatif tedaviler hakkında bilgilendirildim ve bunun sonucunda bana sinüs lift operasyonu yapılmasına izin verdim. Operasyon sonrasında diş hekiminin tarif ettiği bakım kurallarının tümüne uymayı kabul ettim."
+            ],
+            "confirmation": {
+                "patient_name_surname": "Hasta Adı, Soyadı",
+                "patient_signature": "Hasta Imzası",
+                "patient_date": "Tarih",
+                "review_phone_number": "Gerektiğinde Başvurabileceğiniz Telefon Numarası: x xxx xxx xx xx / xxxxx-xxxxx",
+                "preparer_ref": "HAZIRLAYAN",
+                "preparer_date": "Tarih",
+                "preparer_position": "BİRİM KALİTE SORUMLUSU",
+                "controller_ref": "KONTROL EDEN",
+                "controller_position": "KALİTE YÖNETİM DİREKTÖRÜ",
+                "controller_date": "Tarih",
+                "confirmer_ref": "ONAYLAYAN",
+                "confirmer_position": "DEKAN",
+                "confirmer_date": "Tarih"
+            },
+            "confirm": "Onayla"
+        },
+        "data": {
+            "has_crestal_sinus_raise": "Krestal Sinüs Yükselişi",
+            "has_lateral_window_sinus_elevation": "Yan Pencere Sinüs Yüksekliği",
+            "patient_name_surname": "Hasta Adı, Soyadı",
+            "patient_signature": "Imza",
+            "patient_phone_no": "Telefon Numarasi",
+            "patient_date": "Tarih",
+            "email_address": "E-posta Adresi",
+            "confirmer": "HEKIM",
+            "confirmer_postion": "DEKAN",
+            "confirmer_name_surname": "Adı - Soyad",
+            "confirmer_signature": "Imza",
+            "confirmer_date": "Tarih"
+        },
+        "error": {
+            "fill_patient_email": "Lütfen hastanın e-posta adresini doldurun.",
+            "patient_name_surname": "Lütfen Hastanın Adı, Soyadı doldurun",
+            "patient_signature": "Lütfen Hastanın Imza doldurun",
+            "patient_phone_no": "Lütfen Hastanın Telefon Numarasi doldurun",
+            "patient_date": "Lütfen Hastanın Imza Tarihi doldurun",
+            "email_address": "Lütfen Hastanın E-posta Adresi doldurun"
+        }
+    }
+}

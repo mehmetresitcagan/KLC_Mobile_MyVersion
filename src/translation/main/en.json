@@ -1,0 +1,23 @@
+{
+    "__comment__": "following are HOME SCREEN translations",
+    "implant consent": "İmplant Consent",
+    "anamnesis and information form": "Anamnesis and Information Form",
+    "root canal treatment consent": "Root Canal Treatment Consent",
+    "dental filling consent": "Dental Filling Consent",
+    "orthognathic surgeon consent": "Orthognathic Surgeon Consent",
+    "sinus lifting consent": "Sinus Lifting Consent",
+    "anamnesis forms": "Anamnesis Forms",
+    "consent forms": "Consent Forms",
+    "login": "Login",
+    "forms": "Forms",
+    "logout": "Logout",
+    "__comment__": "following are SIGN IN translations",
+    "password": "Password",
+    "go back": "Go Back",
+    "welcome": "Welcome",
+    "email address": "Email Address",
+    "clean": "Clean",
+    "confirm": "Confirm",
+    "yes":"Yes",
+    "no":"No"
+}
